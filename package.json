@@ -1,0 +1,12 @@
+{
+  "name": "sbux_bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "Program Running [!] Started"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
